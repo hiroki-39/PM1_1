@@ -4,7 +4,7 @@ int main()
 {
 	printf("hello");
 	
-	printf("なんか変更");
+	printf("コンフリクト直しました");
 
 	return 0;
 }
