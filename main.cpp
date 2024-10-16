@@ -4,7 +4,7 @@ int main()
 {
 	printf("hello");
 	
-	printf("GitHub");
+	printf("�Ȃ񂩕ύX");
 
 	return 0;
 }
